@@ -11,7 +11,7 @@ naționale și internaționale, statistici, studii, analize existente, sondaje �
   Link: https://ocw.cs.pub.ro/courses/mps/laboratoare/laborator-04
   
 ## Team: 
-Nikollos Broow: dezvoltator, tester, team lead/manager, technical writer, analist, consultant.
+Rusu Alexandru: dezvoltator, tester, team lead/manager, technical writer, analist, consultant.
 
 ## Imaginea arhitecturală
 
